@@ -1,0 +1,33 @@
+[submodule "start/terminus"]
+	path = start/terminus
+	url = git@github.com:wincent/terminus.git
+[submodule "start/gruvbox"]
+	path = start/gruvbox
+	url = git@github.com:morhetz/gruvbox.git
+[submodule "start/ack.vim"]
+	path = start/ack.vim
+	url = git@github.com:mileszs/ack.vim.git
+[submodule "start/auto-pairs"]
+	path = start/auto-pairs
+	url = git@github.com:jiangmiao/auto-pairs.git
+[submodule "start/ctrlp.vim"]
+	path = start/ctrlp.vim
+	url = git@github.com:ctrlpvim/ctrlp.vim.git
+[submodule "start/nerdtree"]
+	path = start/nerdtree
+	url = git@github.com:scrooloose/nerdtree.git
+[submodule "start/nerdtree-git-plugin"]
+	path = start/nerdtree-git-plugin
+	url = git@github.com:xuyuanp/nerdtree-git-plugin
+[submodule "start/swift.vim"]
+	path = start/swift.vim
+	url = git@github.com:keith/swift.vim
+[submodule "start/vim-airline"]
+	path = start/vim-airline
+	url = git@github.com:vim-airline/vim-airline.git
+[submodule "start/vim-airline-themes"]
+	path = start/vim-airline-themes
+	url = git@github.com:vim-airline/vim-airline-themes.git
+[submodule "start/vim-surround"]
+	path = start/vim-surround
+	url = git@github.com:tpope/vim-surround.git
